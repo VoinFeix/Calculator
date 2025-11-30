@@ -28,7 +28,7 @@ It supports addition, subtraction, multiplication, and division, with a toggleab
 1. Clone the repository:
 
   ```bash
-   git clone https://github.com/DevManoj96/Calculator.git
+   git clone https://github.com/VoinFeix/Calculator.git
    cd Calculator
   ```
 
